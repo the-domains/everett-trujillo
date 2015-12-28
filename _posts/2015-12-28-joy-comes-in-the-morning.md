@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-28T22:26:45.014Z'
+datePublished: '2015-12-28T22:27:08.003Z'
 publisher:
   domain: ''
   name: ''
 title: '#joy comes in the morning'
-dateModified: '2015-12-28T22:25:56.182Z'
+dateModified: '2015-12-28T22:26:45.014Z'
 sourcePath: _posts/2015-12-28-joy-comes-in-the-morning.md
 published: true
 inFeed: true
