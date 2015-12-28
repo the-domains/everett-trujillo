@@ -1,6 +1,6 @@
 name: Everett Trujillo
 favicon: null
-layout_spectrum: 0.99876
+layout_spectrum: 0.75124
 typography_spectrum: 0.34777
 title: Everett Trujillo Blog
 collections:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#080705'
-    - '#bfaf8d'
-    - '#92775d'
-    - '#6b503f'
-    - '#ddd3c2'
+    - '#1c0108'
+    - '#ffffff'
+    - '#ff8e2e'
+    - '#ffd46b'
+    - '#b55232'
   brandStrength: 0.375
   lightness: 0.5625
   saturation: 0.5625
