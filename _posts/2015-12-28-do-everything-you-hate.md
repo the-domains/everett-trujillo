@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://apple.news/AxoS8GDdnRhGJ6GHWNqT9_Q'
 title: Do everything you hate
-datePublished: '2015-12-28T22:29:28.182Z'
-dateModified: '2015-12-28T22:29:09.541Z'
+datePublished: '2015-12-28T22:40:07.838Z'
+dateModified: '2015-12-28T22:29:28.182Z'
 sourcePath: _posts/2015-12-28-do-everything-you-hate.md
 published: true
 inFeed: true
