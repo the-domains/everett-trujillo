@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Everett Trujillo Blog]]></title>
         <description><![CDATA[Everett Trujillo Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/everett-trujillo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 21:06:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 21:07:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/everett-trujillo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/701a34ce-b9c9-4e70-a85e-90f4564e5e9e.jpg">]]></description>
+            <link>https://thegrid.ai/everett-trujillo/e1e801eb-7073-4814-9600-324c40f5485f/index.html</link>
+            <guid isPermaLink="false">e1e801eb-7073-4814-9600-324c40f5485f</guid>
+            <pubDate>Mon, 28 Dec 2015 21:06:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is such an amazing idea to help kids learn gratitude,</p>]]></description>
-            <link>undefined0dbc6504-5b46-4f03-8975-951b56e6ddad/index.html</link>
+            <link>https://thegrid.ai/everett-trujillo/0dbc6504-5b46-4f03-8975-951b56e6ddad/index.html</link>
             <guid isPermaLink="false">0dbc6504-5b46-4f03-8975-951b56e6ddad</guid>
             <pubDate>Mon, 28 Dec 2015 21:06:24 GMT</pubDate>
         </item>
