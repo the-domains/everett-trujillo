@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5625
+  saturation: 0.8189964
   brandStrength: 0.25
-  rhythmicContrast: 0.5
+  lightness: 0.8405018
   brandColors:
     - '#1c0108'
     - '#ffffff'
     - '#ff8e2e'
     - '#ffd46b'
     - '#b55232'
-  lightness: 0.5625
+  rhythmicContrast: 0.8082438
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Everett Trujillo
 favicon: null
+name: Everett Trujillo
 opengraph:
   image: null
   type: null
