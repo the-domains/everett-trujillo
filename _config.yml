@@ -13,9 +13,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8602151
+  saturation: 0.9856631
+  lightness: 1
   brandStrength: 0.6326165
-  lightness: 0.344086
   brandColors:
     - '#1E3176'
     - '#060E18'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Everett Trujillo
+favicon: null
 opengraph:
   image: null
   type: null
