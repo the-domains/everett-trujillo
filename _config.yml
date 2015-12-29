@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.9856631
-  lightness: 1
+  saturation: 0.5896057
   brandStrength: 0.6326165
+  lightness: 0.3082437
   brandColors:
     - '#1E3176'
     - '#060E18'
     - '#4265E6'
     - '#B4FAFF'
     - '#4C6349'
-  rhythmicContrast: 0.9605735
+  rhythmicContrast: 0.3960573
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Everett Trujillo
 favicon: null
+name: Everett Trujillo
 opengraph:
   image: null
   type: null
