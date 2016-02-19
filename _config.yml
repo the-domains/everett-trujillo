@@ -1,5 +1,8 @@
+name: Everett Trujillo
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.2114695
 title: Everett Trujillo Blog
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3620072
-  lightness: 0.5860215
-  brandStrength: 0.5788531
   brandColors:
     - '#1E3176'
     - '#060E18'
     - '#4265E6'
     - '#B4FAFF'
     - '#4C6349'
-  rhythmicContrast: 0.6827957
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Everett Trujillo
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2114695
-layout_spectrum: 0.969534
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 0.5
+purpose: []
